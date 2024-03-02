@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUDRAZOR
+build_property.RootNamespace = CRUDRAZOR
+build_property.ProjectDir = D:\ADSO\5°Trimestre\.net\CRUDRAZOR\CRUDRAZOR\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ADSO\5°Trimestre\.net\CRUDRAZOR\CRUDRAZOR
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Model/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Model/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Model/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Model/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Model/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ADSO/5°Trimestre/.net/CRUDRAZOR/CRUDRAZOR/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mzmnm63ekw

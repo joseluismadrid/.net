@@ -1,0 +1,14 @@
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.AssemblyInfoInputs.cache
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.AssemblyInfo.cs
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\bin\Debug\net7.0\Reto3.exe
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\bin\Debug\net7.0\Reto3.deps.json
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\bin\Debug\net7.0\Reto3.runtimeconfig.json
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\bin\Debug\net7.0\Reto3.dll
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\bin\Debug\net7.0\Reto3.pdb
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.dll
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\refint\Reto3.dll
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.pdb
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\Reto3.genruntimeconfig.cache
+D:\ADSO\5°Trimestre\.net\taller01\Reto3\obj\Debug\net7.0\ref\Reto3.dll

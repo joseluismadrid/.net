@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29efd899-b64b-46f7-a40f-6ce42ebac43e": {
+      "ProjectGuid": "29efd899-b64b-46f7-a40f-6ce42ebac43e",
+      "DisplayName": "Formateo de numeros",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,51 @@
+﻿@page
+@model PeliculaCrudRazor.Pages.Movies.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Peliculas</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Peliculas.Title" class="control-label"></label>
+                <input asp-for="Peliculas.Title" class="form-control" />
+                <span asp-validation-for="Peliculas.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Peliculas.Realease" class="control-label"></label>
+                <input asp-for="Peliculas.Realease" class="form-control" />
+                <span asp-validation-for="Peliculas.Realease" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Peliculas.Gener" class="control-label"></label>
+                <input asp-for="Peliculas.Gener" class="form-control" />
+                <span asp-validation-for="Peliculas.Gener" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Peliculas.Price" class="control-label"></label>
+                <input asp-for="Peliculas.Price" class="form-control" />
+                <span asp-validation-for="Peliculas.Price" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-page="Index" class="btn btn-dark"
+>Back to List</a>
+</div>
+
+@section Scripts { 
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

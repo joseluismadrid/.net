@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4391FD1-68B3-4A9D-9BE1-C256F19F56B5}|CRUDMVC\\CRUDMVC.csproj|d:\\adso\\5\u00B0trimestre\\.net\\crudmvc\\crudmvc\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4391FD1-68B3-4A9D-9BE1-C256F19F56B5}|CRUDMVC\\CRUDMVC.csproj|solutionrelative:crudmvc\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4391FD1-68B3-4A9D-9BE1-C256F19F56B5}|CRUDMVC\\CRUDMVC.csproj|d:\\adso\\5\u00B0trimestre\\.net\\crudmvc\\crudmvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4391FD1-68B3-4A9D-9BE1-C256F19F56B5}|CRUDMVC\\CRUDMVC.csproj|solutionrelative:crudmvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4391FD1-68B3-4A9D-9BE1-C256F19F56B5}|CRUDMVC\\CRUDMVC.csproj|d:\\adso\\5\u00B0trimestre\\.net\\crudmvc\\crudmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4391FD1-68B3-4A9D-9BE1-C256F19F56B5}|CRUDMVC\\CRUDMVC.csproj|solutionrelative:crudmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\CRUDMVC\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDMVC\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\CRUDMVC\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "CRUDMVC\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T19:32:48.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\CRUDMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\CRUDMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T03:36:18.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\CRUDMVC\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CRUDMVC\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\CRUDMVC\\CRUDMVC\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "CRUDMVC\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T01:47:24.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\obj\Debug\lavadoraMabel.csproj.AssemblyReference.cache
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\obj\Debug\lavadoraMabel.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\bin\Debug\lavadoraMabel.exe.config
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\bin\Debug\lavadoraMabel.exe
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\bin\Debug\lavadoraMabel.pdb
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\obj\Debug\lavadoraMabel.exe
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel\lavadoraMabel\obj\Debug\lavadoraMabel.pdb
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\bin\Debug\lavadoraMabel.exe.config
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\bin\Debug\lavadoraMabel.exe
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\bin\Debug\lavadoraMabel.pdb
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.csproj.AssemblyReference.cache
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.exe
+C:\Users\Joseluis\Desktop\practicaPuntoNet\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.pdb
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\bin\Debug\lavadoraMabel.exe.config
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\bin\Debug\lavadoraMabel.exe
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\bin\Debug\lavadoraMabel.pdb
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.exe
+D:\ADSO\5°Trimestre\.net\lavadoraMabel _version2\lavadoraMabel\obj\Debug\lavadoraMabel.pdb

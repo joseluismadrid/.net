@@ -1,0 +1,7 @@
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\bin\Debug\Nomina.exe.config
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\bin\Debug\Nomina.exe
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\bin\Debug\Nomina.pdb
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\obj\Debug\Nomina.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\obj\Debug\Nomina.exe
+D:\ADSO\5°Trimestre\.net\Nomina\Nomina\obj\Debug\Nomina.pdb

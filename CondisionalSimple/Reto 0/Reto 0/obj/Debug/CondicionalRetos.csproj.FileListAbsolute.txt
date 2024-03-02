@@ -1,0 +1,14 @@
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\obj\Debug\CondicionalRetos.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\obj\Debug\CondicionalRetos.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\bin\Debug\CondicionalRetos.exe.config
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\bin\Debug\CondicionalRetos.exe
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\bin\Debug\CondicionalRetos.pdb
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\obj\Debug\CondicionalRetos.exe
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\CondicionalRetos\obj\Debug\CondicionalRetos.pdb
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\bin\Debug\CondicionalRetos.exe.config
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\bin\Debug\CondicionalRetos.exe
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\bin\Debug\CondicionalRetos.pdb
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\obj\Debug\CondicionalRetos.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\obj\Debug\CondicionalRetos.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\obj\Debug\CondicionalRetos.exe
+D:\ADSO\5°Trimestre\.net\CondicionalRetos\Reto 0\obj\Debug\CondicionalRetos.pdb

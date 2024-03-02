@@ -1,0 +1,7 @@
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\bin\Debug\CrudList.exe.config
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\bin\Debug\CrudList.exe
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\bin\Debug\CrudList.pdb
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\obj\Debug\CrudList.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\obj\Debug\CrudList.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\obj\Debug\CrudList.exe
+D:\ADSO\5°Trimestre\.net\CrudList\CrudList\obj\Debug\CrudList.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|d:\\adso\\5\u00B0trimestre\\.net\\peliculacrudrazor\\peliculacrudrazor\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|solutionrelative:peliculacrudrazor\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|d:\\adso\\5\u00B0trimestre\\.net\\peliculacrudrazor\\peliculacrudrazor\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|solutionrelative:peliculacrudrazor\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|d:\\adso\\5\u00B0trimestre\\.net\\peliculacrudrazor\\peliculacrudrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|solutionrelative:peliculacrudrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|d:\\adso\\5\u00B0trimestre\\.net\\peliculacrudrazor\\peliculacrudrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E2355F-BCA3-40A8-9330-418C534C74FA}|PeliculaCrudRazor\\PeliculaCrudRazor.csproj|solutionrelative:peliculacrudrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\Pages\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeliculaCrudRazor\\Pages\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\Pages\\Movies\\Create.cshtml",
+              "RelativeToolTip": "PeliculaCrudRazor\\Pages\\Movies\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T18:50:43.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PeliculaCrudRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PeliculaCrudRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T17:15:27.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\appsettings.json",
+              "RelativeDocumentMoniker": "PeliculaCrudRazor\\appsettings.json",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\appsettings.json",
+              "RelativeToolTip": "PeliculaCrudRazor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-01T15:34:18.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\Pages\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeliculaCrudRazor\\Pages\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\ADSO\\5\u00B0Trimestre\\.net\\PeliculaCrudRazor\\PeliculaCrudRazor\\Pages\\Movies\\Index.cshtml",
+              "RelativeToolTip": "PeliculaCrudRazor\\Pages\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T15:23:59.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

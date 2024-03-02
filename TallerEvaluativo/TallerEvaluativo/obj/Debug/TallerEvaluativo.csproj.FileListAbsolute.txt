@@ -1,0 +1,8 @@
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\bin\Debug\TallerEvaluativo.exe.config
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\bin\Debug\TallerEvaluativo.exe
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\bin\Debug\TallerEvaluativo.pdb
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.exe
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.pdb
+D:\ADSO\5°Trimestre\.net\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.csproj.SuggestedBindingRedirects.cache

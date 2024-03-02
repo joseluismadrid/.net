@@ -1,0 +1,8 @@
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\bin\Debug\Formateo de numeros.exe.config
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\bin\Debug\Formateo de numeros.exe
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\bin\Debug\Formateo de numeros.pdb
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\obj\Debug\Formateo de numeros.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\obj\Debug\Formateo de numeros.csproj.SuggestedBindingRedirects.cache
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\obj\Debug\Formateo de numeros.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\obj\Debug\Formateo de numeros.exe
+D:\ADSO\5°Trimestre\.net\Formateo de numeros\Formateo de numeros\obj\Debug\Formateo de numeros.pdb

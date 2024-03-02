@@ -1,0 +1,14 @@
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\obj\Debug\UniversidadReto2.csproj.AssemblyReference.cache
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\obj\Debug\UniversidadReto2.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\bin\Debug\UniversidadReto2.exe.config
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\bin\Debug\UniversidadReto2.exe
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\bin\Debug\UniversidadReto2.pdb
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\obj\Debug\UniversidadReto2.exe
+C:\Users\Joseluis\source\repos\UniversidadReto2\UniversidadReto2\obj\Debug\UniversidadReto2.pdb
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\bin\Debug\UniversidadReto2.exe.config
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\bin\Debug\UniversidadReto2.exe
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\bin\Debug\UniversidadReto2.pdb
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\obj\Debug\UniversidadReto2.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\obj\Debug\UniversidadReto2.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\obj\Debug\UniversidadReto2.exe
+D:\ADSO\5°Trimestre\.net\Reeto 2\Reto 2\obj\Debug\UniversidadReto2.pdb

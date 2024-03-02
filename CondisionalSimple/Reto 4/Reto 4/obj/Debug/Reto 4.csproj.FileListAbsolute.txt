@@ -1,0 +1,7 @@
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\obj\Debug\Reto 4.csproj.AssemblyReference.cache
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\obj\Debug\Reto 4.csproj.CoreCompileInputs.cache
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\bin\Debug\Reto 4.exe.config
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\bin\Debug\Reto 4.exe
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\bin\Debug\Reto 4.pdb
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\obj\Debug\Reto 4.exe
+D:\ADSO\5°Trimestre\.net\Reto 4\Reto 4\obj\Debug\Reto 4.pdb
